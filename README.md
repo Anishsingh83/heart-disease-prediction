@@ -14,5 +14,5 @@ Python, Streamlit, Scikit-learn, Pandas
 pip install -r requirements.txt  
 streamlit run app.py
 
-## 👨‍💻 Author
+##  Author
 Anish Singh
